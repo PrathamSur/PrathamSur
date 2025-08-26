@@ -92,3 +92,11 @@
 <h2 align="left">Are you here to stalk me ??🤨🤨<br>If yes then welcome. 😄😄!!</h2>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrathamSur/PrathamSur/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrathamSur/PrathamSur/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PrathamSur/PrathamSur/output/pacman-contribution-graph.svg">
+</picture>
+
+###
