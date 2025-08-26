@@ -21,6 +21,10 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      # This is the new debugging step
+      - name: List files for debugging
+        run: ls -R
+
       - name: move pacman files
         run: |
           mkdir -p dist
