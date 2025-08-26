@@ -93,6 +93,7 @@
 
 ###
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PrathamSur/PrathamSur/output/pacman.svg">
+<img src="https://raw.githubusercontent.com/PrathamSur/PrathamSur/main/pacman.gif" alt="Pac-Man animation" />
+
 
 ###
