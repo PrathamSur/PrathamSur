@@ -20,7 +20,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # This is the line you need to add 👇
+          # This line tells the action to create the file in the 'dist' folder directly
           outputs_dir: dist
 
       - name: push pacman-contribution-graph.svg to the output branch
