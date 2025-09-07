@@ -64,7 +64,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
   <img width="12" />
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJdsaOH3LxJisOtkMCdTpqEn-HJmauzZl68A&s](https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-svg-png-download-3030217.png?f=webp)" height="30" alt="postman logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-svg-png-download-2945092.png?f=webp" height="30" alt="postman logo"  />
 </div>
 
 ###
